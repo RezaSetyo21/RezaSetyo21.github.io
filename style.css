@@ -1,0 +1,16 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+.jumbotron{
+	padding-top: 5rem;
+	/*background-color: #e2edff;*/
+	background-image: url("img/background.jpg");
+	background-size: cover;
+}
+#projects{
+	background-color: #e2edff;
+}
+
+section{
+	padding-top: 5rem;
+}
