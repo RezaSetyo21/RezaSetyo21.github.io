@@ -14,3 +14,10 @@ font-family: 'Open Sans', sans-serif;
 section{
 	padding-top: 5rem;
 }
+
+@media only screen and (max-width: 900px){
+		.text{
+		color: white;
+		text-shadow: 2px 2px 15px black;
+	}
+}
